@@ -4,11 +4,7 @@ import java.awt.event.*;
 import javax.swing.*;
 import java.util.concurrent.TimeUnit;
 
-
-
-
 public class JFrame_Setup{
-
 
 		JFrame_Setup(){//CONTRUCTION
 			JFrame frame = new JFrame("GUI");
